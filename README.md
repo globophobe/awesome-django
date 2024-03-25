@@ -194,6 +194,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates.
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A class-based view to handle multiple forms in one view.
+- [django-semantic-forms](https://github.com/globophobe/django-semantic-forms) - Django Semantic UI forms.
 
 ### Full-stack frameworks
 - [ReactPy](https://github.com/reactive-python/reactpy) - It's React, but in Python. Insert dynamically rendered Python into Django templates using the [ReactPy-Django module](https://github.com/reactive-python/reactpy-django).
